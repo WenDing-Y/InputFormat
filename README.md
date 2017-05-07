@@ -1,1 +1,2 @@
 # InputFormat
+自定义实现hadoop的输入格式。模拟了hadoop的分片，和从文本中按行读取信息，拆分成key/value。实现的功能和TextInPutFormat差不多
